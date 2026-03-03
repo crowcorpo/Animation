@@ -1,7 +1,7 @@
-import escanore from "./assets/lbsa1.avif";
-import baskit3 from "./assets/baskit3.avif";
-import swite1 from "./assets/swite1.webp";
-import swite2 from "./assets/swite2.avif";
+import escanore from "../assets/escanore.jpg";
+import baskit3 from "../assets/baskit3.avif";
+import swite1 from "../assets/swite1.webp";
+import swite2 from "../assets/swite2.avif";
 
 function Animation() {
   return (
